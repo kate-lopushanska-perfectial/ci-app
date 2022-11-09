@@ -5,7 +5,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>Kateryna CI app</h1>
-        <h3>First commit after adding travis yml</h3>
+        <h3>circle ci is cool</h3>
+        <h5>travis ci is foo</h5>
       </header>
     </div>
   );
